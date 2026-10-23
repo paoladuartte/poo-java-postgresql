@@ -8,11 +8,11 @@ Desenvolver uma aplicação Java para gerenciar informações de pessoas, aplica
 
 ## 🛠️ Tecnologias utilizadas
 
-- **Java** — desenvolvimento da aplicação.
-- **Programação Orientada a Objetos (POO)** — organização do código em classes e métodos.
-- **JDBC** — comunicação entre Java e o banco de dados.
-- **PostgreSQL** — armazenamento e gerenciamento dos dados.
-- **Eclipse IDE** — ambiente de desenvolvimento.
+- **Java**: desenvolvimento da aplicação.
+- **Programação Orientada a Objetos (POO)**: organização do código em classes e métodos.
+- **JDBC**: comunicação entre Java e o banco de dados.
+- **PostgreSQL**: armazenamento e gerenciamento dos dados.
+- **Eclipse IDE**: ambiente de desenvolvimento.
 
 ## ⚙️ Funcionalidades
 
@@ -74,7 +74,3 @@ Este projeto contribuiu para a prática de:
 - Execução de comandos SQL para manipulação de dados.
 - Tratamento de exceções.
 - Organização de código em classes, separando a aplicação das operações de acesso aos dados.
-
-## 👩‍💻 Sobre o projeto
-
-Projeto desenvolvido para fins educacionais como parte dos meus estudos em Ciência da Computação, com foco no aprendizado de Java, banco de dados e desenvolvimento de aplicações.
