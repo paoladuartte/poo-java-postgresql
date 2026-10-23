@@ -2,11 +2,11 @@
 
 Projeto acadêmico desenvolvido durante meus estudos em Ciência da Computação, com o objetivo de praticar Programação Orientada a Objetos (POO) em Java e a integração com banco de dados PostgreSQL utilizando JDBC.
 
-## 🎯 Objetivo
+## Objetivo
 
 Desenvolver uma aplicação Java para gerenciar informações de pessoas, aplicando conceitos de programação e operações de manipulação de dados em um banco relacional.
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - **Java**: desenvolvimento da aplicação.
 - **Programação Orientada a Objetos (POO)**: organização do código em classes e métodos.
@@ -14,7 +14,7 @@ Desenvolver uma aplicação Java para gerenciar informações de pessoas, aplica
 - **PostgreSQL**: armazenamento e gerenciamento dos dados.
 - **Eclipse IDE**: ambiente de desenvolvimento.
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 A aplicação possui um menu interativo no console que permite:
 
@@ -25,7 +25,7 @@ A aplicação possui um menu interativo no console que permite:
 
 Os dados gerenciados incluem nome, data de nascimento, cidade, rua e número.
 
-## 🗄️ Estrutura do banco de dados
+## Estrutura do banco de dados
 
 O projeto utiliza uma tabela chamada `pessoa`, com os seguintes campos:
 
@@ -52,7 +52,7 @@ CREATE TABLE Pessoa (
 );
 ```
 
-## 🚀 Como executar o projeto
+## Como executar o projeto
 
 1. Instale o Java JDK, o Eclipse IDE e o PostgreSQL.
 2. Crie um banco de dados chamado `Agenda`.
@@ -60,11 +60,9 @@ CREATE TABLE Pessoa (
 4. Adicione o driver JDBC do PostgreSQL ao projeto.
 5. Configure a conexão com o banco na classe `ConnectionFactory`, utilizando o endereço, usuário e senha do seu ambiente.
 6. Execute a classe `Principal` no Eclipse.
-7. Utilize o menu exibido no console para cadastrar, listar, alterar e excluir registros.
+7. Utilize o menu exibido no console para cadastrar, listar, alterar e excluir 
 
-**Importante:** não compartilhe senhas reais do banco de dados no repositório.
-
-## 📚 Aprendizados
+##  Aprendizados
 
 Este projeto contribuiu para a prática de:
 
